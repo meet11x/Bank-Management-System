@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\PATEL MEET\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2LLXZULS\\postgresql-42.6.0[1].jar",
+        "c:\\Users\\PATEL MEET\\Pictures\\Screenshots\\mysql-connector-j-8.1.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
